@@ -9,8 +9,6 @@ It's important for astronomy to become more accessible, so we've used the [sonoU
 
 ## Going from CARTA to sonoUno
 
-Insert a video here! The way to do that is described [here](https://www.cazzulino.com/github-pages-embed-video.html) and the key point is to go to Issues, create a new Issue, and drop the video in there. After it's processed, then you will see a URL. That URL can be used to embed the video, as per the example below. NB web uploads are limited to 25Mb per file. 
-
 Here is an example:
 
 <video src="https://user-images.githubusercontent.com/49630165/184367078-e3a23582-bb86-424d-a2ef-ba3c874e2c05.mp4" controls="controls" style="max-width: 730px;">
