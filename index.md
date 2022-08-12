@@ -30,6 +30,8 @@ You can use the [editor on GitHub](https://github.com/stephenserjeant/sounds-of-
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Below is the default help text that comes with the theme. Feel free to delete it when you are comfortable with editing! 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
