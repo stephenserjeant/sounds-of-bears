@@ -6,7 +6,7 @@ It's important for astronomy to become more accessible, so we've used the sonoUn
 
 # Going from CARTA to sonoUno
 
-Insert a video here! 
+Insert a video here! Here is an example: 
 
 # Sonifying our stacked BEARS spectrum
 
