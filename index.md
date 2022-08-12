@@ -1,4 +1,23 @@
-## Welcome to GitHub Pages
+## The Sounds of BEARS
+
+The Bright Extragalactic ALMA Redshift Survey, or BEARS, is a wonderful project for all these reasons, blah blah. 
+
+It's important for astronomy to become more accessible, so we've used the sonoUno package developed by the REINFORCE project to sonify some of our ALMA data. This page shows you what we've done, and walks you through how you can do it for yourself. 
+
+# Going from CARTA to sonoUno
+
+Insert a video here. 
+
+# Sonifying our stacked BEARS spectrum
+
+Insert a video here
+
+# More sonifications
+
+Insert more material here
+
+# Other ideas?
+Contact us if you have any other ideas! 
 
 You can use the [editor on GitHub](https://github.com/stephenserjeant/sounds-of-bears.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
