@@ -1,8 +1,10 @@
-# The Sounds of BEARS
+# The Bright Extragalactic ALMA Redshift Survey, BEARS
 
-The Bright Extragalactic ALMA Redshift Survey, or BEARS, is a wonderful project for all these reasons, blah blah.
+The Bright Extragalactic ALMA Redshift Survey, or BEARS, is a observational campaign on the [https://almascience.eso.org/](Atacama Large Millimetre Array (ALMA)) to measure the redshifts of the brightest submillimetre galaxies on the Southern sky, discovered by the Herschel Space Observatory. So far we have measured secure (e.g. two-line) spectroscopic redshifts for 71 submillimetre galaxies in the [https://www.h-atlas.org/](Herschel ATLAS) South Galactic Pole field, which we published in [https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3017U/abstract](Urquhart et al. 2022, BEARS paper I), and the continuum photometry will be published in Bendo et al. MN submitted (BEARS paper II). The emission line properties of the bright Herschel-selected galaxies in South Galactic Pole will soon be published in Hagimoto et al. 2022 (BEARS paper III).  
 
-It's important for astronomy to become more accessible, so we've used the sonoUno package developed by the REINFORCE project to sonify some of our ALMA data. This page shows you what we've done, and walks you through how you can do it for yourself.
+# The sounds of BEARS
+
+It's important for astronomy to become more accessible, so we've used the [https://www.sonouno.org.ar/](sonoUno) package developed by the [https://www.reinforceeu.eu/](REINFORCE) project to sonify some of our ALMA data. This page shows you what we've done, and walks you through how you can do it for yourself.
 
 # Going from CARTA to sonoUno
 
