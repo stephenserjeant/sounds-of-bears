@@ -13,14 +13,13 @@ Insert a video here! The way to do that is described [here](https://www.cazzulin
 
 Here is an example:
 
-<video src="https://user-images.githubusercontent.com/11993612/184339026-d023d906-90fc-44c4-9dda-59a155d790ac.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/49630165/184367078-e3a23582-bb86-424d-a2ef-ba3c874e2c05.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 ## Sonifying our stacked BEARS spectrum
 
 <video src="https://user-images.githubusercontent.com/49630165/184357872-82f50625-d4b0-46be-8c38-4d6f87dfd4ee.mp4" controls="controls" style="max-width: 730px;">
 </video>
-this is stacked spectrum.
 
 ## More sonifications
 
