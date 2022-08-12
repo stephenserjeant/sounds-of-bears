@@ -6,14 +6,13 @@ It's important for astronomy to become more accessible, so we've used the sonoUn
 
 # Going from CARTA to sonoUno
 
-Insert a video here! Here is an example:
+Insert a video here! The way to do that is described [here](https://www.cazzulino.com/github-pages-embed-video.html) and the key point is to go to Issues and drop the video in there. Then you will see a URL. That URL can be used to embed the video, as per the example below. 
+
+Here is an example:
 
 <video src="https://user-images.githubusercontent.com/11993612/184339026-d023d906-90fc-44c4-9dda-59a155d790ac.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-Here is another video: 
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
-</video>
 
 
 # Sonifying our stacked BEARS spectrum
