@@ -27,11 +27,12 @@ Insert more material here
 ## Other ideas?
 Contact us if you have any other ideas!
 
+
+## Below is the default help text that comes with the theme. Feel free to delete it when you are comfortable with editing! 
+
 You can use the [editor on GitHub](https://github.com/stephenserjeant/sounds-of-bears/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## Below is the default help text that comes with the theme. Feel free to delete it when you are comfortable with editing! 
 
 ### Markdown
 
