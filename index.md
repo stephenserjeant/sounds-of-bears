@@ -19,6 +19,7 @@ Here is an example:
 ## Sonifying our stacked BEARS spectrum
 
 Insert a video here
+this is stacked spectrum.
 
 ## More sonifications
 
