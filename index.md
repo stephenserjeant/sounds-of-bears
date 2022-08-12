@@ -6,7 +6,7 @@ It's important for astronomy to become more accessible, so we've used the sonoUn
 
 # Going from CARTA to sonoUno
 
-Insert a video here! Here is an example: 
+Insert a video here! Here is an example: https://github.com/stephenserjeant/sounds-of-bears/quick_demo_smaller.mov 
 
 # Sonifying our stacked BEARS spectrum
 
@@ -19,7 +19,7 @@ Insert more material here
 # Other ideas?
 Contact us if you have any other ideas!
 
-You can use the [editor on GitHub](https://github.com/stephenserjeant/sounds-of-bears.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/stephenserjeant/sounds-of-bears/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
