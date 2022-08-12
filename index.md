@@ -1,4 +1,4 @@
-## The Sounds of BEARS
+# The Sounds of BEARS
 
 The Bright Extragalactic ALMA Redshift Survey, or BEARS, is a wonderful project for all these reasons, blah blah.
 
@@ -12,8 +12,6 @@ Here is an example:
 
 <video src="https://user-images.githubusercontent.com/11993612/184339026-d023d906-90fc-44c4-9dda-59a155d790ac.mp4" controls="controls" style="max-width: 730px;">
 </video>
-
-
 
 # Sonifying our stacked BEARS spectrum
 
