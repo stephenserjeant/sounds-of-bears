@@ -8,7 +8,7 @@ It's important for astronomy to become more accessible, so we've used the sonoUn
 
 Insert a video here! Here is an example:
 
-<video src="https://github.com/stephenserjeant/sounds-of-bears/blob/gh-pages/quick_demo_smaller.mov" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/stephenserjeant/sounds-of-bears/blob/gh-pages/quick_demo.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 Here is another video: 
