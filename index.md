@@ -9,7 +9,7 @@ It's important for astronomy to become more accessible, so we've used the [sonoU
 
 ## Going from CARTA to sonoUno
 
-Here is an example:
+Our BEARS survey data is now public on the ALMA archive, so it's possible to go from the CARTA interface in the ALMA Science Archive all the way to a sonification. Here is an example:
 
 <video src="https://user-images.githubusercontent.com/49630165/184367078-e3a23582-bb86-424d-a2ef-ba3c874e2c05.mp4" controls="controls" style="max-width: 730px;">
 </video>
@@ -21,7 +21,7 @@ Here is an example:
 
 ## More sonifications
 
-Insert more material here
+We will put in more material here as we make it. 
 
 ## Other ideas?
 Contact us if you have any other ideas!
