@@ -24,7 +24,7 @@ Our BEARS survey data is now public on the ALMA archive, so it's possible to go 
 We will put in more material here as we make it. 
 
 ## Other ideas?
-Contact us if you have any other ideas!
+[Contact us](https://stephenserjeant.github.io/) if you have any other ideas!
 
 ## Credits
 Written by Masato Hagimoto and Stephen Serjeant, August 2022. 
