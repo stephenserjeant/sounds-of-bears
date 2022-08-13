@@ -26,6 +26,12 @@ Insert more material here
 ## Other ideas?
 Contact us if you have any other ideas!
 
+## Credits
+Written by Masato Hagimoto and Stephen Serjeant, August 2022. 
+
+This work was partly supported by the REINFORCE project. REINFORCE has received funding from the European Union’s Horizon 2020 project call H2020-SwafS-2018-2020 under Grant Agreement no. 872859. The content of this website does not represent the opinion of the European Commission, and the European Commission is not responsible for any use that might be made of such.
+
+<!--
 
 ## Below is the default help text that comes with the theme. Feel free to delete it when you are comfortable with editing! 
 
@@ -64,3 +70,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+--!>
