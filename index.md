@@ -5,7 +5,10 @@ The Bright Extragalactic ALMA Redshift Survey, or BEARS, is a project on the [At
 
 ## The sounds of BEARS
 
-It's important for astronomy to become more accessible, so we've used the [sonoUno](https://www.sonouno.org.ar/) package developed by the [REINFORCE](https://www.reinforceeu.eu/) project to sonify some of our ALMA data. This page shows you what we've done, and walks you through how you can do it for yourself.
+It's important for astronomy to become more accessible, so we've used the [sonoUno](https://www.sonouno.org.ar/) package developed by the [REINFORCE](https://www.reinforceeu.eu/) project to sonify some of our ALMA data. This page shows you what we've done, and walks you through how you can do it for yourself. SonoUno installation can be a bit involved, but fortunately [there is a web interface for sonoUno](https://dev.sonouno.org.ar/en-US/) that is very simple to use. Here is one of our first attempts to convert a .csv file of one of our BEARS spectra to a sonification, using the website. 
+
+<video src="https://user-images.githubusercontent.com/11993612/184339026-d023d906-90fc-44c4-9dda-59a155d790ac.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 ## Going from CARTA to sonoUno
 
