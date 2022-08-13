@@ -29,16 +29,6 @@ Contact us if you have any other ideas!
 ## Credits
 Written by Masato Hagimoto and Stephen Serjeant, August 2022. 
 
-![EU flag](/sounds-of-bears/docs/assets/eu-flag.png?raw=true)
-
-![EU flag](/sounds-of-bears/assets/eu-flag.png?raw=true)
-
-![EU flag](/sounds-of-bears/docs/assets/eu-flag.png)
-
-![EU flag](/sounds-of-bears/assets/eu-flag.png)
-
-<img src="assets/eu-flag.png" alt="EU flag" class="inline"/>
-
-This work was partly supported by the REINFORCE project. REINFORCE has received funding from the European Union’s Horizon 2020 project call H2020-SwafS-2018-2020 under Grant Agreement no. 872859. The content of this website does not represent the opinion of the European Commission, and the European Commission is not responsible for any use that might be made of such.
+![EU flag](/sounds-of-bears/docs/assets/eu-flag.png?raw=true) This work was partly supported by the REINFORCE project. REINFORCE has received funding from the European Union’s Horizon 2020 project call H2020-SwafS-2018-2020 under Grant Agreement no. 872859. The content of this website does not represent the opinion of the European Commission, and the European Commission is not responsible for any use that might be made of such.
 
 
