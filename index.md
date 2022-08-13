@@ -29,7 +29,7 @@ Contact us if you have any other ideas!
 ## Credits
 Written by Masato Hagimoto and Stephen Serjeant, August 2022. 
 
-![eu-flag.png](/sounds-of-bears/assets/eu-flag.png)
+![eu-flag.png](/sounds-of-bears/docs/assets/eu-flag.png?raw=true)
 
 <img src="assets/eu-flag.png" alt="EU flag" class="inline"/>
 
