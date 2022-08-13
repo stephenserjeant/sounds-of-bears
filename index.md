@@ -1,7 +1,7 @@
 # The Sounds of BEARS
 ## The Bright Extragalactic ALMA Redshift Survey, BEARS
 
-The Bright Extragalactic ALMA Redshift Survey, or BEARS, is a project on the [Atacama Large Millimetre Array (ALMA)](https://almascience.eso.org/) to measure the redshifts of the brightest submillimetre galaxies on the Southern sky, discovered by the Herschel Space Observatory. So far we have measured secure (e.g. two-line) spectroscopic redshifts for 71 submillimetre galaxies in the [Herschel ATLAS](https://www.h-atlas.org/) South Galactic Pole field, which we published in [Urquhart et al. 2022 (BEARS paper I)](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3017U/abstract), and the continuum photometry will be published in Bendo et al. MN submitted (BEARS paper II). The emission line properties of the bright Herschel-selected galaxies in South Galactic Pole will soon be published in Hagimoto et al. 2022 (BEARS paper III).  
+The Bright Extragalactic ALMA Redshift Survey, or BEARS, is a project on the [Atacama Large Millimetre Array (ALMA)](https://almascience.eso.org/) to measure the redshifts of the brightest submillimetre galaxies on the Southern sky, discovered by the [Herschel Space Observatory](https://www.cosmos.esa.int/web/herschel). So far we have measured secure (e.g. two-line) spectroscopic redshifts for 71 submillimetre galaxies in the [Herschel ATLAS](https://www.h-atlas.org/) South Galactic Pole field, which we published in [Urquhart et al. 2022 (BEARS paper I)](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3017U/abstract), and the continuum photometry will be published in Bendo et al. MN submitted (BEARS paper II). The emission line properties of the bright Herschel-selected galaxies in South Galactic Pole will soon be published in Hagimoto et al. 2022 (BEARS paper III).  
 
 ## The sounds of BEARS
 
@@ -9,7 +9,7 @@ It's important for astronomy to become more accessible, so we've used the [sonoU
 
 ## Going from CARTA to sonoUno
 
-Our BEARS survey data is now public on the ALMA archive, so it's possible to go from the CARTA interface in the ALMA Science Archive all the way to a sonification. Here is an example:
+Our BEARS survey data is now public on the ALMA archive, so it's possible to go from the CARTA interface in the [ALMA Science Archive](https://almascience.eso.org/aq/) all the way to a sonification. Here is an example:
 
 <video src="https://user-images.githubusercontent.com/49630165/184367078-e3a23582-bb86-424d-a2ef-ba3c874e2c05.mp4" controls="controls" style="max-width: 730px;">
 </video>
