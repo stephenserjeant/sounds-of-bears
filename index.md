@@ -19,6 +19,7 @@ Our BEARS survey data is now public on the ALMA archive, so it's possible to go 
 
 ## Sonifying our stacked BEARS spectrum
 
+Our BEARS projects identified the spectroscopic redshift for a totally of 71 galaxies. This video shows the process by which each spectrum is converted to a stacked spectrum and to a sonification very simply.
 <video src="https://user-images.githubusercontent.com/49630165/184357872-82f50625-d4b0-46be-8c38-4d6f87dfd4ee.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
